@@ -12,7 +12,7 @@ Backend Engineer from Korea
 
 <br/><br/>
 <div align="center">
-<h4>My velog</h4>
+<h4>✨ _My velog_ ✨</h4>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pingping&tag=php)](https://velog.io/@pingping)
 
@@ -21,7 +21,7 @@ Backend Engineer from Korea
 <br/><br/>
 
 <div align="center">
-  <h4>Tech Stack</h4>
+  <h4>⚡_Tech Stack_⚡</h4>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
