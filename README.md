@@ -8,9 +8,12 @@
 Backend Engineer from Korea
   <br/>
 🚴 I’m currently working on ...
-</div>
 
 <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiki-wit">
+</div>
+<br/><br/>
+
 <div align="center">
 <h4>✨ _My Velog_ ✨</h4>
   
