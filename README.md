@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hello, 👋 
+  Hello, 👋 🐥🦖🐦🐸🦊🐋
 </h1>
 <br/>
 
@@ -12,7 +12,7 @@ Backend Engineer from Korea
 
 <br/><br/>
 <div align="center">
-<h4>✨ _My velog_ ✨</h4>
+<h4>✨ _My Velog_ ✨</h4>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pingping&tag=php)](https://velog.io/@pingping)
 
