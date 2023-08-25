@@ -1,6 +1,15 @@
+<center>
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kiki)](https://velog.io/@pingping) 
+  
+</center>
+<center>
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pingping&tag=php)](https://velog.io/@pingping)  
+
+</center>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=&fontSize=90" />
   <h3>Tech Stack</h3>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
