@@ -12,7 +12,7 @@ Backend Engineer from Korea
 <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiki-wit">
 </div>
-<br/><br/>
+<br/>
 
 <div align="center">
 <h4>✨ _My Velog_ ✨</h4>
@@ -34,7 +34,7 @@ Backend Engineer from Korea
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <br/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white">
 </div>
