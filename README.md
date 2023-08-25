@@ -1,13 +1,21 @@
-<center>
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kiki)](https://velog.io/@pingping) 
-  
-</center>
-<center>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pingping&tag=php)](https://velog.io/@pingping)  
 
-</center>
+<h1 align='center'>
+  Hello, 👋 
+</h1>
+
+<br/>
+
+<div align="center">
+Backend Engineer from Korea
+
+<br/><br/>
+<h3>My Blog</h3>
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pingping&tag=php)](https://velog.io/@pingping)
+
+</div>
+
+<br/><br/>
 
 <div align="center">
   <h3>Tech Stack</h3>
