@@ -14,13 +14,6 @@ Backend Engineer from Korea
 </div>
 <br/>
 
-<div align="center">
-<h4>✨ _My Velog_ ✨</h4>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pingping&tag=php)](https://velog.io/@pingping)
-
-</div>
-
 <br/><br/>
 
 <div align="center">
