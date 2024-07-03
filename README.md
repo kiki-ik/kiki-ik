@@ -5,16 +5,20 @@
 <br/>
 
 <div align="center">
-Backend Engineer from Korea
+Backend Engineer from South Korea
+  <br/><br/>
+🚴 I’m currently holiday on ...
   <br/>
-🚴 I’m currently working on ...
+🌃 I like city pop...
+  <br/>
+❤️‍🔥 I like y2k retro...
 
 <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiki-wit">
 </div>
 <br/>
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <h4>⚡_Tech Stack_⚡</h4>
